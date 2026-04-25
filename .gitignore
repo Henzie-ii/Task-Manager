@@ -1,0 +1,21 @@
+#env files
+.env
+.venv
+
+#pycache
+__pycache__/
+*.pyc   
+
+#IDE files
+.vscode/
+.idea/
+
+#logslogs/
+*.log   
+
+#data files
+data/
+
+#database files
+*.db
+sqlite3
